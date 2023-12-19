@@ -17,8 +17,7 @@ body{
     width: 100vw;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
-    background: #000;
-    color: #fff;
+    
 
 }
 .btn{
@@ -47,8 +46,7 @@ nav{
     left: 0;
     z-index: 10;
     background: var(--navcolor);
-    background: #000;
-    color: #fff;
+
 }
 
 nav .logo img{
@@ -153,4 +151,11 @@ nav ul a:hover{
 }
 .about__text div button{
    padding: 0.70rem 1.55rem;;
+}
+
+/* how it works */
+
+.how__it__works{
+    width: 100%;
+    text-align: center;
 }
