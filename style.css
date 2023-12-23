@@ -158,4 +158,12 @@ nav ul a:hover{
 .how__it__works{
     width: 100%;
     text-align: center;
+    margin: 5rem 0;
+}
+.how__it__works h1{
+    font-size: 20px;
+}
+.how__it__works video{
+    width: 800px;
+    margin: 2rem 0;
 }
